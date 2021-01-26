@@ -1,1 +1,1 @@
-Static Pipeline CPU  
+Static Pipeline CPU
